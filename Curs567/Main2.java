@@ -1,6 +1,6 @@
 package Curs567;
 
-public class Main2 {
+public class Main2 { //Sesiunea 6
     public static void main(String[] args) {
         int numarZile = 10;
         int numarziledinluna = numarZile * 3;

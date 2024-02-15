@@ -1,6 +1,6 @@
 package Curs567;
 
-public class Main3 {
+public class Main3 { //Sesiunea 7
     public static void main(String[] args) {
         System.out.println("Start");
 //        System.out.println(3 == 3.0);

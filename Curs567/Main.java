@@ -1,6 +1,6 @@
 package Curs567;
 
-public class Main {
+public class Main { //Sesiunea 5
     public static void main(String[] args) {
         int y = 2;
         double x = 3 + 6 * --y;
