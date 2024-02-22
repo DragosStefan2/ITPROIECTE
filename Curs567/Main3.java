@@ -20,6 +20,10 @@ public class Main3 { //Sesiunea 7
         } else if (numarMasini==11){
             System.out.println("Ai 10 masini.");
         }
+        int a= 20;
+        int b=15;
+        int x= (a>b) ? 35 : 20;
+        System.out.println(x);
 
     }
 }
