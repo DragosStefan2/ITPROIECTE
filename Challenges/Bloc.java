@@ -21,4 +21,13 @@ public class Bloc {
            System.out.println(etaj);
            return this.etaj;
        }
+       /** getter & setter*/
+        int getAnConstructie(){
+            return anConstructie;
+        }
+        void setAnConstructie(int AnConstructieParametru){
+            this.anConstructie= AnConstructieParametru;
+
+        }
+
 }

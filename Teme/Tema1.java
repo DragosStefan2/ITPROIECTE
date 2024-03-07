@@ -1,4 +1,4 @@
-public class Tema { //Tema 1
+public class Tema1 { //Tema 1
     public static void main(String[] args) {
         int x = 3;
         int y = 4;
